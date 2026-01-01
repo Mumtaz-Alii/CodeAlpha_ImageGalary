@@ -1,1 +1,1 @@
-# CodeAlpha_ImageGalary
+# ImageGalary by Mumtaz Ali
